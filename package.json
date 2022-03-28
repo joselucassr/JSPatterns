@@ -1,0 +1,25 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joselucassr/JSPatterns.git"
+  },
+  "author": "joselucassr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joselucassr/JSPatterns/issues"
+  },
+  "homepage": "https://github.com/joselucassr/JSPatterns#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
